@@ -1,0 +1,1 @@
+var json_Capital_5 = {"type":"FeatureCollection","name":"Capital_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"osm_id":"331136682","code":1005.0,"fclass":"national_capital","population":"1817524","name":"Yaoundé"},"geometry":{"type":"Point","coordinates":[11.5213344,3.8689867]}}]}
